@@ -19,8 +19,7 @@ setup(
     license='MIT License',
     install_requires=[
         "pydub>=0.25.1",
-        "librosa>=0.10.0",
-        "wave>=0.0.2",
+        "librosa>=0.10.0"
     ],
     packages=find_packages(),
     platforms=["all"],
